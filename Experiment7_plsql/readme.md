@@ -1,5 +1,6 @@
-# Experiment 6: PL/SQL – Variables, Control Structures and Loops
-
+# Experiment 7: PL/SQL – Variables, Control Structures and Loops
+## Name: SANJAY KUMAR.B
+## Reg.no:212223220095
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
