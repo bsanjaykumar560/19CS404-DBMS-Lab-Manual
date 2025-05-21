@@ -1,5 +1,6 @@
 # Experiment 10: PL/SQL – Triggers
-
+## Name: SANJAY KUMAR.B
+## Reg.no:212223220095
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
